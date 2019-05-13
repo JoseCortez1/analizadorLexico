@@ -1,0 +1,10 @@
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\bin\Debug\Analizador_Lexico.exe.config
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\bin\Debug\Analizador_Lexico.exe
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\bin\Debug\Analizador_Lexico.pdb
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.Form1.resources
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.Properties.Resources.resources
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.csproj.GenerateResource.cache
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.csproj.CoreCompileInputs.cache
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.exe
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.pdb
+C:\Users\Zebra\Desktop\c#\Analizador_Lexico\obj\Debug\Analizador_Lexico.csprojAssemblyReference.cache
